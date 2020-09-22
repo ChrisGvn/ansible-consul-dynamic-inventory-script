@@ -1,4 +1,3 @@
-# ansible-consul-dynamic-inventory-script
 <h2>A very basic Ansible dynamic inventory script for Consul</h2>
 
 <h3>How did we get here? </h3>
@@ -7,7 +6,3 @@
 
 <h3>Lab Setup</h3>
 <p>The whole lab is virtual and is being run in <a href="https://www.virtualbox.org">Virtualbox</a>, on a Windows laptop. I'm using a Linux Lite VM as my Consul server and four Alpine Linux VM's as nodes.</p>
-
-<h3>What's next?</h3>
-<p>I plan to add more functionality to this script, and hopefully submit it to the Ansible community GitHub page.</p>
-<p>Feel free to make any changes or additions!</p>
